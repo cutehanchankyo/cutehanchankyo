@@ -3,7 +3,7 @@
 ## Introduce
 >안녕하세요 백앤드 개발자가 되고 싶은 정찬교 입니다!<br>
 >현재 광주소프트웨어 마이스터 고등학교 재학중<br>
-> <a href="https://www.instagram.com/shw0_noo1221/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/> : j_c_kyo
+> <a href="https://www.instagram.com/j_c_kyo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/> : j_c_kyo
 
 ### My Status <img src="https://media.discordapp.net/attachments/902816680491773952/1093347625916444793/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966.gif" width="40" height="40" /> `응` <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580888106/noticon/owcvyw4dggdylen2ql5w.gif" width="40" height="40" /> `개발해`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutehanchankyo&layout=compact&hide=html,css&exclude_repo=algorithm_and_datastruct,Voluntree,spring_practice,Spring_basic_practice,Spring_Security_Practice)](https://github.com/anuraghazra/github-readme-stats)<br>
