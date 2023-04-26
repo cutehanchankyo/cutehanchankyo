@@ -1,5 +1,5 @@
 ## Hi! 👋
-> I'm cutehanchankyo, who dreamed of becoming a Backend Developer!
+> I'm cutehanchankyo, who dreamed of becoming a Backend Developer!<br>
 > 🏤 Gwangju Software Meister High School
 
 ### My Status
