@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2&layout=compact&hide=html,css&exclude_repo=algorithm_and_datastruct,Voluntree,spring_practice,Spring_basic_practice,Spring_Security_Practice)](https://github.com/anuraghazra/github-readme-stats)
+### My
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutehanchankyo&layout=compact&hide=html,css&exclude_repo=algorithm_and_datastruct,Voluntree,spring_practice,Spring_basic_practice,Spring_Security_Practice)](https://github.com/anuraghazra/github-readme-stats)
+[![cutehanchankyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutehanchankyo)](https://github.com/cutehanchankyo/github-readme-stats)
 
 
 ### My Stack
